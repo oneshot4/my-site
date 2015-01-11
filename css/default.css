@@ -1,0 +1,23 @@
+body{
+    background-image:url("../images/bg.jpg");
+    color:#e22a2a;
+}
+
+a{
+    color:#55dd33;
+    font-size:25px;
+}
+
+h2{
+    color:#d618f2;
+    font-size:35px;
+}
+
+h1{
+    font-size:40px;
+}
+
+div.imageList img{
+    display: block;
+    margin-bottom: 10px;
+}
