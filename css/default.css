@@ -14,10 +14,18 @@ h2{
 }
 
 h1{
+    margin:0;
+    margin-left:40px;
     font-size:40px;
+}
+
+.drawing-page-title{
+    padding:10px;
+    border:blue 20px solid;
+    margin:50px;
 }
 
 div.imageList img{
     display: block;
     margin-bottom: 10px;
-}
+ }
